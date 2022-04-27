@@ -7,6 +7,5 @@
 </head>
 <body>
 <p><?php echo $_POST["name"]; ?</p>
-<p><?php echo $_POST["email"]; ?</p>
 </body>
 </html>

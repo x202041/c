@@ -6,6 +6,6 @@
   <link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
-<p><?php echo $_POST["name"]; ?</p>
+<p><?php echo $_POST["name"]; ?></p>
 </body>
 </html>

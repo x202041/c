@@ -6,9 +6,7 @@
   <link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
-<?php?
-echo $_POST["name"];
-echo $_POST["email"];
->
+<p><?php echo $_POST["name"]; ?</p>
+<p><?php echo $_POST["email"]; ?</p>
 </body>
 </html>
